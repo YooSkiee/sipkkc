@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
