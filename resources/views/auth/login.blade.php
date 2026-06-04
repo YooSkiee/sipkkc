@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <x-guest-layout>
     <div class="min-h-[500px] flex flex-col justify-center">
         <!-- Header Dinamis: Merah untuk Admin, Hijau untuk Manager, Biru untuk Penyewa -->
